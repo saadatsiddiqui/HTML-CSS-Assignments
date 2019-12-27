@@ -1,0 +1,266 @@
+.topmenu table{
+        background-color: black;
+        color: white;
+        width: 100%;
+        border-collapse: collapse;
+       
+        
+}
+.topmenu td{
+        border-spacing: 0px;
+        padding: 2px 10px;
+}
+.menu table{
+        width: 100%;
+        height: 30%;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        
+    }
+ .banner{
+     background-image: url("../Final_Assignment_CSS/istockphoto.jpg");
+     
+     color: white;
+     width: 90%;
+     height: 50%;
+     padding: 50px 70px;
+     text-align: center;
+ }   
+ .banner h2{
+     font-size: 32px;
+     font-family: Arial, Helvetica, sans-serif;
+ }
+ .banner input{
+     color: black;
+     background-color: gold;
+     width: 200px;
+     height: 30px;
+     border: 5% 300%;
+     border-radius: 5px;
+     border-style: none;
+     box-shadow:0px 3px orange ;
+ }
+.heading{
+    text-align: center;
+    padding: 15px 400px;
+}
+.heading h2{
+    font-size: 32px;
+     font-family: Arial, Helvetica, sans-serif;
+}
+.heading p{
+    color: lightgray;
+}
+.green{
+    color: rgb(129, 173, 62);
+}
+.icons img{
+    padding: 20px;
+    border-radius: 100px;
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+    
+}
+.all{
+    text-align: center;
+}
+.aboutus{
+    background-image: image("../Quarter2/aboutus.png");
+    background-color: gainsboro;
+    
+}
+.aboutus h2{
+    text-align: center;
+    padding: 10px 0px 0px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+}
+.aboutus p{ 
+  
+padding: 5px;
+margin: 0px;
+    
+}
+.aboutus input{
+background-color: gold;
+margin: 20px 10px;
+width: 200px;
+height: 50px;
+font-weight: bolder;
+font-size: 16px;
+border-radius: 5px;
+border-style: none;
+box-shadow:0px 3px orange ;
+}
+.star img{
+    
+margin: -30px 140px;
+    border-radius: 100px;
+    -moz-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+} 
+.os table{
+   
+    padding: 20px 0px;
+    
+    border-spacing: 5px 0px;
+}
+
+.os1 {
+border-radius: 5px ;
+padding: 20px 60px;
+text-align: center;
+color: lightslategrey;
+background-color:gainsboro;
+}
+.os1 h4{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 22px;
+font-weight: normal;
+color: black;
+}         
+.os1 a{
+color: rgb(12, 245, 12);
+font-size: 20px;
+}
+.op{
+padding: 30px 30px;
+background-color: black;
+color: white;
+text-align: center;
+}
+
+.opt{
+width: 100%;
+border-spacing: 0px 20px;
+text-align: center;
+font-weight: bold;
+color: white;
+padding: 20px 250px;
+
+}
+.opt td{
+padding: 0px;
+}
+.oprocess table{
+    border-collapse: collapse;
+}
+.oprocess td{
+    border-collapse: collapse;
+    
+}
+.num p{
+   position: relative;
+    z-index: 1;
+   margin: -15px 95px;
+   background-color: gold;
+    border-radius: 100px;
+    -moz-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+}
+.oprocess1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.oprocess1 img{
+    
+    border: 5px solid lightgrey;
+    padding: 10%;
+    z-index: -1;
+    border-radius: 200px;
+    -moz-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+}
+.oprocess1 td{
+    padding: 20px 30px;
+}
+.pau{
+    background-color: rgba(211, 211, 211, 0.267);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.icon{
+    margin: 25px 25px;
+    border-radius: 100%;
+    -moz-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+}
+.services{
+    margin: 0px 60px;
+    border-spacing: 120px 0px;
+}
+.services p{
+    padding: 60px 30px;
+   
+     border-radius: 100px;
+    -moz-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 36px;
+}
+.synp{
+    background-color: rgb(129, 173, 62);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    height: 350px;
+}
+.synp h1{
+    padding: 40px 50px 0px 50px;
+    font-size: 50px;
+}
+.text input{
+color: lightgray;
+padding: 10px 20px;
+border-radius: 5px;
+}
+.sr{
+    background-color: gold;
+    margin: 0% 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border-style: none;
+    box-shadow: 0px 3px orange;
+
+}
+.synp p{
+    margin: 60px 50px;
+    padding: 10px 300px;
+}
+.address{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;    
+}
+.address p{
+    padding: 0px 300px;
+}
+.address table{
+    border-spacing: 40px 0px;
+    padding: 0px 300px;
+    
+}
+.links{
+    background-color: rgb(129, 173, 62);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.links table{
+    
+    border-spacing: 130px 30px;
+     
+}
+.pc{
+    width: 30px;
+}
+.links a{
+    color: white;
+}
