@@ -264,3 +264,26 @@ border-radius: 5px;
 .links a{
     color: white;
 }
+.packages table{
+    margin: 50px 200px;
+}
+.packages td{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding: 0px 50px;
+    border: 2px solid lightgrey;
+}
+.packages td:hover{
+    border: 2px solid black;
+    position: relative;
+    top: -10px;
+}
+.packages button{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    position: relative;
+    top: 20px;
+}
